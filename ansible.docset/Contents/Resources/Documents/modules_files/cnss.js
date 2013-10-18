@@ -1,0 +1,1 @@
+jQuery(document).ready(function(){jQuery('table.cnss-social-icon tr td img').hover(function(){jQuery(this).animate({opacity:0.5},200);},function(){jQuery(this).animate({opacity:1},200);});});
